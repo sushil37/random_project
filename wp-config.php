@@ -25,10 +25,10 @@
 // define( 'DB_PASSWORD', 'MyClassMate!123' );
 // define( 'DB_HOST', 'localhost' );
 
-define( 'DB_NAME', 'epiz_33103928_random_projecy' );
-define( 'DB_USER', 'epiz_33103928' );
-define( 'DB_PASSWORD', 'vWXkThfPKhOdr5o' );
-define( 'DB_HOST', 'sql301.epizy.com' );
+define( 'DB_NAME', 'freedb_random_project' );
+define( 'DB_USER', 'freedb_random_user' );
+define( 'DB_PASSWORD', 'rt@4NWC8v*yUXB&' );
+define( 'DB_HOST', 'sql.freedb.tech' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
