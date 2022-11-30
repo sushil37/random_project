@@ -20,16 +20,15 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'random_project' );
+// define( 'DB_NAME', 'random_project' );
+// define( 'DB_USER', 'root' );
+// define( 'DB_PASSWORD', 'MyClassMate!123' );
+// define( 'DB_HOST', 'localhost' );
 
-/** Database username */
-define( 'DB_USER', 'root' );
-
-/** Database password */
-define( 'DB_PASSWORD', 'MyClassMate!123' );
-
-/** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_NAME', 'epiz_33103928_random_projecy' );
+define( 'DB_USER', 'epiz_33103928' );
+define( 'DB_PASSWORD', 'vWXkThfPKhOdr5o' );
+define( 'DB_HOST', 'sql301.epizy.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
