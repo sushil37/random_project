@@ -25,10 +25,10 @@
 // define( 'DB_PASSWORD', 'MyClassMate!123' );
 // define( 'DB_HOST', 'localhost' );
 
-define( 'DB_NAME', 'freedb_random_project' );
-define( 'DB_USER', 'freedb_random_user' );
-define( 'DB_PASSWORD', 'rt@4NWC8v*yUXB&' );
-define( 'DB_HOST', 'sql.freedb.tech' );
+define( 'DB_NAME', 'biac5xml4slohp0n44p4' );
+define( 'DB_USER', 'uf9lsgw8pcj3ygl8' );
+define( 'DB_PASSWORD', 'e6ltN9SkwcLlZWTb2QOY' );
+define( 'DB_HOST', 'biac5xml4slohp0n44p4-mysql.services.clever-cloud.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
