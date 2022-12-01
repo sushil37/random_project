@@ -25,10 +25,10 @@
 // define( 'DB_PASSWORD', 'MyClassMate!123' );
 // define( 'DB_HOST', 'localhost' );
 
-define( 'DB_NAME', 'khanalsa_our_startup' );
-define( 'DB_USER', 'khanalsa_root' );
-define( 'DB_PASSWORD', 'zGZwUjRtY7gG7TZ' );
-define( 'DB_HOST', '104.161.23.62' );
+define( 'DB_NAME', '' );
+define( 'DB_USER', '' );
+define( 'DB_PASSWORD', '' );
+define( 'DB_HOST', '' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
