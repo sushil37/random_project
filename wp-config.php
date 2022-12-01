@@ -25,10 +25,10 @@
 // define( 'DB_PASSWORD', 'MyClassMate!123' );
 // define( 'DB_HOST', 'localhost' );
 
-define( 'DB_NAME', 'biac5xml4slohp0n44p4' );
-define( 'DB_USER', 'uf9lsgw8pcj3ygl8' );
-define( 'DB_PASSWORD', 'e6ltN9SkwcLlZWTb2QOY' );
-define( 'DB_HOST', 'biac5xml4slohp0n44p4-mysql.services.clever-cloud.com' );
+define( 'DB_NAME', 'khanalsa_our_startup' );
+define( 'DB_USER', 'khanalsa_root' );
+define( 'DB_PASSWORD', 'zGZwUjRtY7gG7TZ' );
+define( 'DB_HOST', '104.161.23.62' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
